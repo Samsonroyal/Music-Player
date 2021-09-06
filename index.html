@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Responsiveness -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- stylesheet -->
+    <link href="style.css" rel="stylesheet">
+
+    <!-- Title -->
+    <title>Texta Music Player</title>
+</head>
+
+<body>
+    <div class="music-player">
+        <audio src="" id="audio"></audio>
+        <h1 class="music-name">Song</h1>
+        <p class="artist-name">Artist</p>
+
+        <div class="disk"></div>
+
+        <div class="song-slider">
+            <input type="range" value="0" class="seek-bar">
+            <span class="current-time">00:00</span>
+            <span class="song-duration">00:00</span>
+        </div>
+
+        <div class="controls">
+            <button class="btn backward-btn"><img src="images/pre.png" alt=""></button>
+            <button class="play-btn pause">
+                <span></span>
+                <span></span>
+            </button>
+            <button class="btn forward-btn"><img src="images/nxt.png" alt=""></button>
+        </div>
+
+    </div>
+    <script src="data.js ">
+    </script>
+    <script src="app.js ">
+    </script>
+</body>
+
+</html>
