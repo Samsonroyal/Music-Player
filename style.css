@@ -22,7 +22,9 @@ body{
     box-shadow: 0 40px 100px rgba(255, 255, 255, 0.1);
     padding: 30px;
     overflow: hidden;
-    color: #d5eebb;
+    color: #80DD1C;
+    background-image: linear-gradient(-20deg,#2e2b3b,#253141 80%);
+    background-color: #34364b;
 }
 .music-name,
 .artist-name{
@@ -38,6 +40,7 @@ body{
 
 .artist-name{
     font-size: 20px;
+    font-weight: 20px;
 }
 .disk{
        
