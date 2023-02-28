@@ -57,5 +57,34 @@ let songs = [{
         path: 'musics/Chiké - If You No Love (Official Audio).mp3',
         artist: 'Chike',
         cover: 'images/cover 2.png'
+    },
+    {
+        name: 'More and More',
+        path: 'musics/Daddy Andre - more & more ft ceaserous.mp3',
+        artist: 'Daddy Andre ft Ceaserous',
+        cover: 'images/cover 3.png'
+    }, {
+        name: 'Ekifuba',
+        path: 'musics/dre_cali_ekifuba_latest_ugandan_music_2021_hd_mp3_73464.mp3',
+        artist: 'Dre Cali',
+        cover: 'images/cover 1.png'
+    },
+    {
+        name: 'Ebisoka nebi Sembayo',
+        path: 'musics/dre_cali_x_joseph_sax_ebisooka_n_ebisembayo_official_video_aac_59416.m4a',
+        artist: 'Chike',
+        cover: 'images/cover 2.png'
+    },
+    {
+        name: 'Easy',
+        path: 'musics/Easy-by-Zulitums.mp3',
+        artist: 'Zulitums',
+        cover: 'images/cover 2.png'
+    },
+    {
+        name: 'What if I say',
+        path: 'musics/FIREBOY DML - WHAT IF I SAY (Lyrics).mp3',
+        artist: 'Fireboy DML',
+        cover: 'images/cover 2.png'
     }
 ]
